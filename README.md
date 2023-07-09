@@ -37,7 +37,13 @@ Cases-
 1.to print integers value in output- %d
 2.to print character in output- %c
 3.to print decimal in output- %f
-REFER: outputs.c file.
+REFER:OUTPUT.C FILE.
+
+INPUT:
+Scanf("") function.
+(To write number for some output)
+REFER:INPUT.C FILE.
+
 
 
 
