@@ -1,0 +1,15 @@
+CHAPTER 3:
+CONDITIONAL STATEMENTS.
+Two types of conditional statements: 1.if else
+                                     2.switch
+
+1.IF ELSE: if the condition given is true than give output written in curly bracket if not than give output written in else curly bracket.
+2.switch: refer switch.c file.
+
+rule:
+1.cases can be in any order.
+2.nested switches are allowed.
+
+
+ 
+
