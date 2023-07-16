@@ -1,0 +1,44 @@
+CHAPTER:4
+LOOP CONTROL STATEMENTS.
+
+-same things we do multiple times.
+
+FOR LOOP:best and easiest loop.
+initialisation - starting from this.(start from this)
+for ex,we have to write hello world 3 times then we will start from 1 that one should be written in this.(i=1)
+
+condition - the loop stop should be written in this
+ex,i<=3
+
+updation-after every 1 print one addition or two whatever.
+ex,i=i+1
+
+i is known as iterator and counter value.
+
+INCREMENT AND DECREMENT OPERATORS:
+i++- print then increase.
+++i-adds then print.
+for more refer- increment.c
+
+Note-only used in case of addition of 1 or substraction of 1.
+
+in for loop we can use float and char also.
+refer-charfor.c file for char example.
+
+infinite loop- if we miss the condition(where the loop ending is written) writing then it is printed infinite times.
+for ex. 
+for(i=1; ;i++)
+{
+printf("hello world");
+}
+
+WHILE LOOP: It is same as for loop but there is format change in it.
+for format refer: whileformat.c file.
+
+DO WHILE LOOP: work is done than condtion is checked.
+
+BREAK: Exit the loop.
+-can also exit from a nested loop.
+
+CONTINUE: Skip and go to next one.   
+
