@@ -35,3 +35,26 @@ Test case 3: Chef made it to the top 10, as his rank is 1.
 Test case 4: Chef did not make it to the top 10 as his rank is 50.
 
 Write a C program to solve above problem.
+
+
+PROGRAM--
+
+#include<stdio.h>
+int main()
+{   int rank;
+    for(int i=1;i<=5;i++)
+    {
+      printf("enter rank: ",i);
+      scanf("%d",&rank);
+      if(rank<=10)
+      {
+        printf("YES! \n");
+      }
+      else{
+        printf("NO! \n");
+      }
+       
+    }
+    
+    return 0;
+}
