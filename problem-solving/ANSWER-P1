@@ -1,7 +1,10 @@
 #include<stdio.h>
 int main()
-{   int rank;
-    for(int i=1;i<=5;i++)
+{   int ranks;
+    printf("how many ranks?\n");
+    scanf("%d",&ranks);
+    int rank;
+    for(int i=1;i<=ranks;i++)
     {
       printf("enter rank: ",i);
       scanf("%d",&rank);
