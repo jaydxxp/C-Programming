@@ -1,0 +1,19 @@
+#include<stdio.h>
+int main()
+{   
+    int test;
+    printf("No. of test cases:");
+    scanf("%d",&test);
+
+    for(int i=1;i<=test;i++)
+    {  
+
+    int weeks;
+    printf("how many weeks?\n");
+    scanf("%d",&weeks);
+    //Assume,price of per week masterchef classes is 30.
+    
+    printf("price is %d \n",weeks*30);
+    }
+    return 0;
+}
