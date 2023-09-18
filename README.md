@@ -1,6 +1,7 @@
 # C-Programming
-Revision completed.
-functions & recursion in 2-3 days.
+Hey Everyone,
+This is Jaydeep,I am first year Btech student learning C programming 
+I commit my programs here for future revision purpose.
 
 
      
